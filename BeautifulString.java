@@ -1,3 +1,4 @@
+import java.util.*;
 class BeautifulString
 {
 public static void main(String args[])
