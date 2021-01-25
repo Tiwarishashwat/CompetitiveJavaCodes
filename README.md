@@ -3,20 +3,20 @@ Competitive Programming using java
 
 ## HackerRank
 
-![Competitive Java:1](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture1.png)
+![Competitive Java:1](https://github.com/Tiwarishashwat/CompetitiveJavaCodes/blob/master/images/Picture1.png)
 
 ## HackerEarth
 
-![Competitive Java:2](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture2.png)
+![Competitive Java:2](https://github.com/Tiwarishashwat/CompetitiveJavaCodes/blob/master/images/Picture2.png)
 
 ## CodeSignal
 
-![Competitive Java:3](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture3.png)
+![Competitive Java:3](https://github.com/Tiwarishashwat/CompetitiveJavaCodes/blob/master/images/Picture3.png)
 
 ## Leetcode
 
-![Competitive Java:4](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture4.png)
+![Competitive Java:4](https://github.com/Tiwarishashwat/CompetitiveJavaCodes/blob/master/images/Picture4.png)
 
 ## GeeksforGeeks
 
-![Competitive Java:5](https://github.com/Tiwarishashwat/Intelligent-Download-Section-Organizer-GUI-Application/blob/main/images/Picture5.png)
+![Competitive Java:5](https://github.com/Tiwarishashwat/CompetitiveJavaCodes/blob/master/images/Picture5.png)
