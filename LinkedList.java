@@ -46,7 +46,17 @@ public class LinkedList
       temp=temp.link;
     }
   }
-
+  public static LinkedList deleteKey(LinkedList list, int key)
+  {
+    Node currNode=list.head,prev=null;
+    //case 1:
+    if(currNode!= null && currNode.data==key) 
+      {
+	list.head = currNode.link;
+        System.out.println(key + " found and deleted");
+            return list;
+      }
+  }
   public static void main(String[] args) {
     LinkedList list=new LinkedList();
     list=insert(list,1);
