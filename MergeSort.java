@@ -87,4 +87,4 @@ class MergeSort
 		printArray(arr);
 	}
 }
-/* This code is contributed by Rajat Mishra */
+/* This code is contributed by Shashwat Tiwari */
